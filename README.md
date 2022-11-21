@@ -17,8 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@sudeepacharjee5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sudeepacharjee5" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sudeep acharjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudeep acharjee" height="30" width="40" /></a>
+<a href="https://twitter.com/@SudeepAcharjee5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@SudeepAcharjee5" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Sudeep Acharjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudeep acharjee" height="30" width="40" /></a>
 <a href="https://instagram.com/__sudeep_acharjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__sudeep_acharjee" height="30" width="40" /></a>
 </p>
 
