@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sudeep Acharjee</h1>
 <h3 align="center">A passionate frontend developer from India...</h3>
+![new](https://user-images.githubusercontent.com/112026180/203350918-943b1725-0590-4d43-aff6-7ec110e52976.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudeepacharjee&label=Profile%20views&color=0e75b6&style=flat" alt="sudeepacharjee" /> </p>
 
