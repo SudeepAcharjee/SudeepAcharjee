@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **C/Front-end development**
 
-- 🌱 I’m currently learning **BCA-C/C++/Python/Html/CSS/JS**
+- 🌱 I’m currently learning **C/C++/Python/Html/CSS/JS**
 
 - 👯 I’m looking to collaborate on **Web-Development Projects**
 
