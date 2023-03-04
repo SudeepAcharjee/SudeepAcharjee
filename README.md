@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sudeep Acharjee</h1>
-<h3 align="center">A passionate frontend developer from India...</h3>
+<h3 align="center">A passionate frontend developer from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudeepacharjee&label=Profile%20views&color=0e75b6&style=flat" alt="sudeepacharjee" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sudeepacharjee&label=Profile%20views&color=0e75b6&style=flat" alt="sudeepacharjee" /> </p>
 
 - 🔭 I’m currently working on **C/Front-end development**
 
