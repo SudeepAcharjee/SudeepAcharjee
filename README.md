@@ -3,9 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sudeepacharjee&label=Profile%20views&color=0e75b6&style=flat" alt="sudeepacharjee" /> </p>
 
-- 🔭 I’m currently working on **C/Front-end development**
+- 🔭 I’m currently working on **Full-stack development (MERN)**
 
-- 🌱 I’m currently learning **C/C++/Python/Html/CSS/JS**
+- 🌱 I’m currently learning **Mongodb,Expressjs,ReactJs,NoSql**
 
 - 👯 I’m looking to collaborate on **Web-Development Projects**
 
