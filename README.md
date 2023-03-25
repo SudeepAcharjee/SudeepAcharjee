@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Full-stack development (MERN)**
 
-- 🌱 I’m currently learning **Mongodb,Expressjs,ReactJs,NoSql**
+- 🌱 I’m currently learning **Mongodb,Expressjs,ReactJs,PHP**
 
 - 👯 I’m looking to collaborate on **Web-Development Projects**
 
