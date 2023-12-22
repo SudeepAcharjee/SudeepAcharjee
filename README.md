@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sudeepacharjeegp@gmail.com**
 
-- 📄 Know about my experiences [https://sudeep-portfolio.netlify.app/](https://sudeep-acharjee-live.netlify.app/)
+- 📄 Know about my experiences [Click Here](https://sudeep-acharjee-live.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
