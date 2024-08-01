@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sudeepacharjee&label=Profile%20views&color=0e75b6&style=flat" alt="sudeepacharjee" /> </p>
 
-- 🔭 I’m currently working on **Full-Stack development (MERN) & NEXT.JS**
+- 🔭 I’m currently working on **Full-Stack development (MERN) & NEXT.JS & GO**
 
 - 🌱 I’m currently learning **Web-Development, App Development**
 
